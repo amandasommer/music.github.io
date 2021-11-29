@@ -1,3 +1,5 @@
 module:
   hugoVersion:
     min: "0.64.0"
+ 
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
