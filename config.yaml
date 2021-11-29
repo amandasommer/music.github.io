@@ -1,6 +1,4 @@
-module:
-  hugoVersion:
-    min: "0.64.0"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 title = "The language"
 baseURL = "https://amandasommer.github.io/music.github.io/"
